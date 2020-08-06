@@ -1,11 +1,11 @@
 ## Please give it a Star if you like the project 🎉 <img width="100" src="https://i.imgur.com/YaY5arh.gif"> ❤️
 
-[<img src="https://sleekdb.github.io/assets/SleekDB_Thumbnail.png">](https://sleekdb.github.io/)
+[<img src="https://ionurboz.github.io/api-sleekdb/assets/SleekDB_Thumbnail.png">](https://ionurboz.github.io/api-sleekdb/)
 *Visit our website for documentation and getting started guide*
 
 # SleekDB - A NoSQL Database made using PHP
 
-https://sleekdb.github.io/
+https://ionurboz.github.io/api-sleekdb/
 
 SleekDB is a simple NoSQL database that store data in JSON files.
 
@@ -38,4 +38,4 @@ Intentionally SleekDB is not desgined for heavy-load IO operations, it is desgin
     API to handle all of your data.
 - **Easily import/export or backup data**
 
-## Visit our website https://sleekdb.github.io/ for documentation and getting started guide.
+## Visit our website https://ionurboz.github.io/api-sleekdb/ for documentation and getting started guide.
